@@ -1,4 +1,4 @@
-package arrays_entities;
+package arrays;
 
 public class Person {
 
